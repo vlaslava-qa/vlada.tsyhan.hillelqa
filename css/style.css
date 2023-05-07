@@ -1,0 +1,33 @@
+.boss{
+	text-align: center;
+}
+#a{
+	background-color: yellow;
+}
+body{
+	background-image: url(https://catherineasquithgallery.com/uploads/posts/2021-12/1639763391_1-catherineasquithgallery-com-p-rozovii-fon-16-na-9-2.jpg)
+}
+#a{
+	color: green;
+}
+#b{
+	color: grey;
+	text-decoration: underline;
+}
+#c{
+	color: blue;
+}
+#d{
+
+color: green;
+}
+#first li:nth-child(odd){
+	color: blue;
+}
+#second:hover{
+	color: red;
+	font-size: 10;
+	height: 150;
+	width: 500;
+	background-color: blanchedalmond;
+}
